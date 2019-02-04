@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LEDBOI_Beta_2</string>
+    <string name="step_1">Step 1</string>
+    <string name="presetOutput">--</string>
+    <string name="pick_color_preset">Pick Color Preset</string>
+    <string name="step_2">Step 2</string>
+    <string name="send">Send</string>
+
+
+    <string-array name="ColorsPresets">
+        <item> Full Rainbow = 1 </item>
+        <item> UnBlended Rainbow = 2 </item>
+        <item> Blended Rainbow = 3</item>
+        <item> Full ISU Colors = 4 </item>
+        <item> Random Colors =  5</item>
+        <item> Aqua and Yellow = 6</item>
+        <item> Clouds = 7 </item>
+        <item> Chilled ISU Colors = 8 </item>
+        <item> Spooktober = 9 </item>
+        <item> OFF = 10</item>
+
+    </string-array>
+
+</resources>
