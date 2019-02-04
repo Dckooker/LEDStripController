@@ -24,7 +24,7 @@ public class DataSender extends AsyncTask<String,Void,Void> {
 
         try
         {
-            s = new Socket("10.30.120.178",6000);
+            s = new Socket("IP","Port #");
             pw = new PrintWriter(s.getOutputStream());
             pw.write(message);
             pw.flush();
